@@ -19,7 +19,7 @@ Import database library.sql (available inside zip package)
 For User
 
 Open Your browser put inside browser “http://localhost/library”
-Login Details for user: 2147032@kiit.ac.in / Test@123
+Login Details for user: 2147033@kiit.ac.in / Test@123
 
 For Admin Panel
 
