@@ -1,4 +1,4 @@
-#Online Library Management System(LMS)
+# Online Library Management System(LMS)
 Online Library Management System is built up in PHP and backed
 up with My SQL, which mainly concentrates on basic operations in a
 library including but not limited to adding, updating members, deleting
